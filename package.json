@@ -1,5 +1,5 @@
 {
-  "name": "react-starter",
+  "name": "react-starter-ts",
   "version": "1.0.0",
   "main": "webpack.config.js",
   "scripts": {
