@@ -1,7 +1,7 @@
 {
   "name": "react-starter-ts",
   "version": "1.0.0",
-  "main": "webpack.config.js",
+  "main": "src/index.tsx",
   "scripts": {
     "start": "webpack serve --mode development",
     "build": "webpack --mode production --progress",
